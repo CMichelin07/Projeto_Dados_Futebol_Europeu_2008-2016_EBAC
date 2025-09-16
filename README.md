@@ -39,7 +39,6 @@ Dashboard](https://lookerstudio.google.com/reporting/513021fb-b257-4558-b49d-55d
 ## 🚀 Resultados e Conclusões
 
 -   Análise das médias de gols por partida.
--   Identificação dos times com maior desempenho por temporada.
 -   Distribuição de estatísticas de jogadores.
 -   Insights sobre ligas e campeonatos analisados.
 
